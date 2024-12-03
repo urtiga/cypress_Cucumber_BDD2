@@ -24,11 +24,13 @@ Node.js - Ambiente de execução JavaScript.
 
 
 🚀 Como Executar o Projeto
-Pré-requisitos
-Node.js instalado.
-Gerenciador de pacotes (NPM ou Yarn).
+  Pré-requisitos
+  Node.js instalado.
+  Gerenciador de pacotes (NPM ou Yarn).
 
 📂 Cenários de Teste
+
+
 Login com credenciais válidas
 
 Erro ao usar credenciais inválidas
