@@ -12,10 +12,17 @@ Erro ao usar credenciais inválidas
 Validação de campos obrigatórios
 Validação de formato de e-mail
 Relatórios claros e screenshots para falhas.
+
+
+
+
 🛠️ Tecnologias Utilizadas
 Cypress - Framework de testes end-to-end.
 Cucumber - Para escrita de cenários em Gherkin.
 Node.js - Ambiente de execução JavaScript.
+
+
+
 🚀 Como Executar o Projeto
 Pré-requisitos
 Node.js instalado.
