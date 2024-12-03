@@ -30,8 +30,13 @@ Gerenciador de pacotes (NPM ou Yarn).
 
 📂 Cenários de Teste
 Login com credenciais válidas
+
 Erro ao usar credenciais inválidas
+
 Campo de e-mail vazio
+
 Campo de senha vazio
+
 Formato de e-mail inválido
+
 Senha incorreta
